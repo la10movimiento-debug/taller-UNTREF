@@ -1,0 +1,14 @@
+{
+  "content": [],
+  "created_at": "2026-03-17T21:20:52.941Z",
+  "created_by": "la10movimiento-debug",
+  "title": "Taller UNTREF",
+  "slug": "taller-untref",
+  "updated_at": "2026-03-17T21:20:52.941Z",
+  "updated_by": "la10movimiento-debug",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "c9ad0ba5-ad38-488d-af41-1fa4ff419a0c"
+  }
+}
